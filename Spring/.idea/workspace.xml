@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee5d211d-8684-4df8-bd48-811d00199b45" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Spring.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/schemas.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coupling-demo/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/coupling-demo/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coupling-demo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/coupling-demo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coupling-demo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/coupling-demo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coupling-demo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/coupling-demo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coupling-demo/coupling-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/coupling-demo/coupling-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coupling-demo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-spring/.github/workflows/qodana_code_quality.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-spring/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/first-spring/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-spring/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/first-spring/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-spring/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/first-spring/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-spring/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/first-spring/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/first-spring/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-spring/src/main/java/com/example/demo/GratingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-spring/src/main/java/com/example/demo/mainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/first-spring/src/main/java/com/example/demo/mainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-spring/src/main/resources/applicationBeanContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/first-spring/src/main/resources/applicationBeanContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-spring/src/main/resources/schemas/spring-beans.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-spring/src/main/resources/schemas/spring-context.xsd" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="37mGL7X2DbDvUNHXtE1vvnt0n9i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee5d211d-8684-4df8-bd48-811d00199b45" name="Changes" comment="" />
+      <created>1767500775164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767500775164</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
