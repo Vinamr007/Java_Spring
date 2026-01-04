@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54d43be6-97c8-4a66-a9fd-2f240223ce22" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/java/bank-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/bank-app/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/bank-app/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/bank-app/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/bank-app/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/bank-app/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/bank-app/bank-app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/bank-app/src/app/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/bank-app/src/domain/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/bank-app/src/domain/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/bank-app/src/domain/Transaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/bank-app/src/domain/Type.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/bank-app/src/exceptions/AccountNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/bank-app/src/exceptions/InsufficientFundsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/bank-app/src/exceptions/ValidationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/bank-app/src/repository/AccountRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/bank-app/src/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/bank-app/src/repository/TransactionRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/bank-app/src/service/BankService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/bank-app/src/service/impl/BankServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/bank-app/src/util/Validation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/app/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/bank-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/domain/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/domain/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/domain/Transaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/domain/Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/exceptions/AccountNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/exceptions/InsufficientFundsException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/exceptions/ValidationException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/repository/AccountRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/repository/CustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/repository/TransactionRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/service/BankService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/service/impl/BankServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/util/Validation.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="37TZJKvdgSCCZIKtDIWA8G0ZzgY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.HelloWorld.executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54d43be6-97c8-4a66-a9fd-2f240223ce22" name="Changes" comment="" />
+      <created>1766928951647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766928951647</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<application>
+  <component name="XmlSchemaMappings">
+    <mappings>
+      <mapping type="URI">
+        <uri>http://www.springframework.org/schema/beans</uri>
+        <uriLocation>file://$PROJECT_DIR$/first-spring/src/main/resources/schemas/spring-beans.xsd</uriLocation>
+      </mapping>
+      <mapping type="URI">
+        <uri>http://www.springframework.org/schema/context</uri>
+        <uriLocation>file://$PROJECT_DIR$/first-spring/src/main/resources/schemas/spring-context.xsd</uriLocation>
+      </mapping>
+    </mappings>
+  </component>
+</application>
+
