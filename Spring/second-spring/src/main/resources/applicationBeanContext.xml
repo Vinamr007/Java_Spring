@@ -5,7 +5,7 @@
         http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <!-- bean definitions here -->
-    <bean id="myBean" class="com.example.demo.GreetingService" />
+<!--    <bean id="myBean" class="com.example.demo.GreetingService" />-->
 
     <bean id="EmailNotificationService" class="com.example.loose.EmailNotificationService" />
     <bean id="SMSNotificationService" class="com.example.loose.SMSNotificationService" />

@@ -5,42 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54d43be6-97c8-4a66-a9fd-2f240223ce22" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/java/bank-app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/bank-app/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/bank-app/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/bank-app/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/bank-app/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/bank-app/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/bank-app/bank-app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/bank-app/src/app/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/bank-app/src/domain/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/bank-app/src/domain/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/bank-app/src/domain/Transaction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/bank-app/src/domain/Type.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/bank-app/src/exceptions/AccountNotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/bank-app/src/exceptions/InsufficientFundsException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/bank-app/src/exceptions/ValidationException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/bank-app/src/repository/AccountRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/bank-app/src/repository/CustomerRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/bank-app/src/repository/TransactionRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/bank-app/src/service/BankService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/bank-app/src/service/impl/BankServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/bank-app/src/util/Validation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/app/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/bank-app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/domain/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/domain/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/domain/Transaction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/domain/Type.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/exceptions/AccountNotFoundException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/exceptions/InsufficientFundsException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/exceptions/ValidationException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/repository/AccountRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/repository/CustomerRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/repository/TransactionRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/service/BankService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/service/impl/BankServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Spring/util/Validation.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/.idea/schemas.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/coupling-demo/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/coupling-demo/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/coupling-demo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/coupling-demo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/coupling-demo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/coupling-demo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/coupling-demo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/coupling-demo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/coupling-demo/coupling-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/coupling-demo/coupling-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/coupling-demo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/first-spring/.github/workflows/qodana_code_quality.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/first-spring/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/first-spring/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/first-spring/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/first-spring/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/first-spring/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/first-spring/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/first-spring/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/first-spring/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/first-spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/first-spring/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/first-spring/src/main/java/com/example/demo/GratingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/first-spring/src/main/java/com/example/demo/mainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/first-spring/src/main/java/com/example/demo/mainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/first-spring/src/main/resources/applicationBeanContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/first-spring/src/main/resources/applicationBeanContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/first-spring/src/main/resources/schemas/spring-beans.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/first-spring/src/main/resources/schemas/spring-context.xsd" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,10 +38,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="37TZJKvdgSCCZIKtDIWA8G0ZzgY" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -67,13 +59,29 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.HelloWorld.executor": "Run",
     "Application.Main.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true"
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/VSNEWPROJECT/Java_Spring",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -87,5 +95,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>
