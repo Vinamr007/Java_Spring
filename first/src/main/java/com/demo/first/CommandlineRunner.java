@@ -5,10 +5,10 @@ import org.springframework.stereotype.Component;
 
 @Component
 
-public class CommandlineRunner implements CommandLineRunner {
-    @Override
-    public void run(String... args) throws Exception {
-        System.out.println("Hello from CommandLineRunner!");
-    }
-
-}
+//public class CommandlineRunner implements CommandLineRunner {
+//    @Override
+//    public void run(String... args) throws Exception {
+//        System.out.println("Hello from CommandLineRunner!");
+//    }
+//
+//}
