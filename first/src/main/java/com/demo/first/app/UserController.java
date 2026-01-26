@@ -9,13 +9,17 @@ import java.util.HashMap;
 import java.util.Map;
 
 @RestController
-@RequestMapping("/users")
+@RequestMapping("/user")
 public class UserController {
     private Map<Integer, User> userdb =new HashMap<>();
 
     @PostMapping
 public String createUser(@RequestBody User user){
+        System.out.println(user.getEmail());
     userdb.put(user.getId(), user);
-    return "success";
+    return "user created successfully";
 }
+
+
+
 }
