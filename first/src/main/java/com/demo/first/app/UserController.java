@@ -1,5 +1,7 @@
 package com.demo.first.app;
 
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;
@@ -39,5 +41,13 @@ public class UserController {
     @GetMapping
     public List<User> getUsers(){
         return new ArrayList<>(userdb.values());
+    }
+
+
+    @GetMapping("/{id}")
+    public ResponseEntity<User> getUser(@PathVariable int id){
+        if(!userdb.containsKey(id))
+            return ResponseEntity.status((HttpStatus.NOT_FOUND)).build();
+        return ResponseEntity.ok(userdb.get(id));
     }
 }
